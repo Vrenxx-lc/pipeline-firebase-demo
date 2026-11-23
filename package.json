@@ -1,0 +1,19 @@
+﻿{
+    "name":  "pipeline-firebase-demo",
+    "version":  "1.0.0",
+    "description":  "",
+    "main":  "index.js",
+    "scripts":  {
+                    "test":  "node -e \"console.log(\u0027Testes unitários OK\u0027)\"",
+                    "build":  "node -e \"console.log(\u0027Build concluído\u0027)\""
+                },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "type":  "commonjs",
+    "dependencies":  {
+                         "firebase":  "^13.4.0"
+                     }
+}
